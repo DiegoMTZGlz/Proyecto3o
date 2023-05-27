@@ -2,8 +2,8 @@
 
 Proyecto basado en una aplicación de android que contiene una actividad para mostrar los datos de un curriculum
 
-#NOTA:
-En esta ocasión me toco trabajar de forma individual.
+# NOTA:
+***En esta ocasión me toco trabajar de forma individual.***
 
 ## Hecho con:
 
